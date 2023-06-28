@@ -1,0 +1,245 @@
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.exe
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.deps.json
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.json
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.dev.json
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.AssemblyInfoInputs.cache
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.AssemblyInfo.cs
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.CoreCompileInputs.cache
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cs
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cache
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.RazorTargetAssemblyInfo.cache
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.CopyComplete
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.CarritoCompra.StaticWebAssets.Manifest.cache
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.CarritoCompra.StaticWebAssets.xml
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.genruntimeconfig.cache
+C:\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csprojAssemblyReference.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.exe
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.deps.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.dev.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.AssemblyReference.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.AssemblyInfoInputs.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.AssemblyInfo.cs
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.CoreCompileInputs.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.CarritoCompra.StaticWebAssets.Manifest.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.CarritoCompra.StaticWebAssets.xml
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\scopedcss\bundle\TiendaServicios.Api.CarritoCompra.styles.css
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.RazorTargetAssemblyInfo.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.CopyComplete
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.genruntimeconfig.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.exe
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.deps.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.dev.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.AssemblyReference.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.AssemblyInfoInputs.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.AssemblyInfo.cs
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.CoreCompileInputs.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.RazorTargetAssemblyInfo.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.CopyComplete
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.CarritoCompra.StaticWebAssets.Manifest.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.CarritoCompra.StaticWebAssets.xml
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.genruntimeconfig.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.exe
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.deps.json
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.json
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.dev.json
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.AssemblyReference.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.AssemblyInfoInputs.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.AssemblyInfo.cs
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.CoreCompileInputs.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.RazorTargetAssemblyInfo.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.csproj.CopyComplete
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.CarritoCompra.StaticWebAssets.Manifest.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.CarritoCompra.StaticWebAssets.xml
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.CarritoCompra\obj\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.genruntimeconfig.cache

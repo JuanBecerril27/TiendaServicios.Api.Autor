@@ -1,0 +1,41 @@
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.exe
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.deps.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.runtimeconfig.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.runtimeconfig.dev.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.pdb
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.csproj.AssemblyReference.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.AssemblyInfoInputs.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.AssemblyInfo.cs
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.csproj.CoreCompileInputs.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\staticwebassets\Frm Compras.StaticWebAssets.Manifest.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\staticwebassets\Frm Compras.StaticWebAssets.xml
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\scopedcss\bundle\Frm Compras.styles.css
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.RazorTargetAssemblyInfo.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.pdb
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.genruntimeconfig.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.exe
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.deps.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.runtimeconfig.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.runtimeconfig.dev.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\bin\Debug\netcoreapp3.1\Frm Compras.pdb
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.csproj.AssemblyReference.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.AssemblyInfoInputs.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.AssemblyInfo.cs
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.csproj.CoreCompileInputs.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.RazorTargetAssemblyInfo.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\staticwebassets\Frm Compras.StaticWebAssets.Manifest.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\staticwebassets\Frm Compras.StaticWebAssets.xml
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.pdb
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\Frm Compras\obj\Debug\netcoreapp3.1\Frm Compras.genruntimeconfig.cache

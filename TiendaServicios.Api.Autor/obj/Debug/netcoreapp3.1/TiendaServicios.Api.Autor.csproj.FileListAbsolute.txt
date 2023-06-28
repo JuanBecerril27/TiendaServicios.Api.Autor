@@ -1,0 +1,213 @@
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Luis\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.deps.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.runtimeconfig.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.runtimeconfig.dev.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.exe
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.pdb
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.xml
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\scopedcss\bundle\TiendaServicios.Api.Autor.styles.css
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\fer_l\source\repos\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.exe
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libros.pdb
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.xml
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\Esme\Desktop\8 SEMESTRE\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\52557\Desktop\TiendaServicios.Api.Autor\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
